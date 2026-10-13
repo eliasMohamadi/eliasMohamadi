@@ -1,8 +1,8 @@
-Hi! I'm Elias and I'm currently a Computer Science student @ Kennesaw State University.
+Hi! I'm Elias, a Computer Science student @ Kennesaw State University 🦉.
 
-I'm interested in full-stack development, AI/ML, and product management.
+I'm passionate about SWE, full-stack development, AI/ML, and product management.
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/eliasmohamadi) or explore my projects here on GitHub!
+Feel free to connect with me on https://linkedin.com/in/elias-mohamadi Or Email me at e.mohamadix@gmail.com
 
 <!--
 **eliasMohamadi/eliasMohamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
